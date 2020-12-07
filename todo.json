@@ -1,0 +1,38 @@
+[
+    {
+        "task": "Faire les courses \u00e0 Cora",
+        "done": false
+    },
+    {
+        "task": "Sortir le chien",
+        "done": false
+    },
+    {
+        "task": "Aller chercher les enfants",
+        "done": false
+    },
+    {
+        "task": "Passer \u00e0 la pharmacie",
+        "done": false
+    },
+    {
+        "task": "Faire les courses \u00e0 Aldi",
+        "done": false
+    },
+    {
+        "task": "Sortir le chat",
+        "done": false
+    },
+    {
+        "task": "Aller chercher les carottes",
+        "done": true
+    },
+    {
+        "task": "Passer \u00e0 la beuverie",
+        "done": true
+    },
+    {
+        "task": "Jouer \u00e0 la console",
+        "done": false
+    }
+]
